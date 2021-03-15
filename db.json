@@ -1,0 +1,166 @@
+{
+    "MilkTea": [
+        {
+            "id": 0,
+            "name": "Maruo Bean Milk Tea",
+            "shop": "Encounter Tea", 
+            "web": "https://www.encountertea.ca/",
+            "shopdescription": "The Purest Tea Experience",
+            "itemdescription": "A soy pudding milk tea that comes with a skewer of four kinako-sprinkled, mochi balls",
+            "ingredients": ["soy pudding", "milk tea", "kinako-sprinkled mochi balls"],
+            "address": [
+                {
+                    "addressid": "0",
+                    "number": "439",
+                    "line1": "Spadina Avenue",
+                    "line2": "Toronto",
+                    "postcode": "M5T 2G6",
+                    "country": "Ontario"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Brown Sugar Dirty Milk Tea",
+            "shop": "OneZo Tapioca",
+            "web": "https://www.onezotapioca.com/",
+            "shopdescription": "I am ONE ZO, I come from Taiwan, Tapioca is My Secret, Best Fresh Everyday",
+            "itemdescription": "Brown sugar syrup milk tea with freshly made handcrafted tapioca",
+            "ingredients": ["brown sugar", "dirty milk tea", "tapioca"],
+            "address": [
+                {
+                    "addressid": "0",
+                    "number": "2",
+                    "line1": "Wellesley Street West",
+                    "line2": "Toronto",
+                    "postcode": "M4Y 1E7",
+                    "country": "Ontario"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Brown Sugar Deerioca",
+            "shop": "The Alley",
+            "web": "https://www.the-alley.ca/",
+            "shopdescription": "We are commited to making our own sugar cane syrup, Deerioca from scartch, and choosing quality tea leaves",
+            "itemdescription": "Chewy brown sugar syrup cooked pearls with creamy, fresh milk tea",
+            "ingredients": ["brown sugar", "fresh milk tea", "tapioca"],
+            "address": [
+                {
+                    "addressid": "0",
+                    "number": "120",
+                    "line1": "Adelaide Street West",
+                    "line2": "Toronto",
+                    "postcode": "M5H 1T1",
+                    "country": "Ontario"
+                },
+                {
+                    "addressid": "1",
+                    "number": "5",
+                    "line1": "St Joseph Street",
+                    "line2": "Toronto",
+                    "postcode": "M4Y 0B6",
+                    "country": "Ontario"
+                },
+                {
+                    "addressid": "2",
+                    "number": "382",
+                    "line1": "Yonge Street Unit 1",
+                    "line2": "Toronto",
+                    "postcode": "M5B 1S9",
+                    "country": "Ontario"
+                },
+                {
+                    "addressid": "3",
+                    "number": "621",
+                    "line1": "Bloor Street West",
+                    "line2": "Toronto",
+                    "postcode": "M6G 1K8",
+                    "country": "Ontario"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Matcha Crafted Tea",
+            "shop": "ICHA TEA",
+            "web": "https://www.ichatea.ca/",
+            "shopdescription": "Aims to provide young generation in North America with natural and high-quality pure-leaf tea",
+            "itemdescription": "Perfectily grinded and whisked matcha tea leaves with milk and sugar",
+            "ingredients": ["matcha", "milk", "sugar"],
+            "address": [
+                {
+                    "addressid": "0",
+                    "number": "4 - 235",
+                    "line1": "Spadina Avenue",
+                    "line": "Toronto",
+                    "postcode": "M5T 2E2",
+                    "country": "Ontario"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Milk Foam Wintermelon Drink",
+            "shop": "Gong Cha",
+            "web": "https://gong-cha.ca/",
+            "shopdescription": "Tea Fit For Royalty",
+            "itemdescription": "Milk foam with wintermelon flavoured tea and signature white pearl",
+            "ingredients": ["frothed milk", "wintermelon tea", "sugar", "white pearl"],
+            "address": [
+                {
+                    "addressid": "0",
+                    "number": "390",
+                    "line1": "Queen Street West",
+                    "line2": "Toronto",
+                    "postcode": "M5V 2A6",
+                    "country": "Ontario"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Chatime Triple",
+            "shop": "Chatime",
+            "web": "https://chatime.com/",
+            "shopdescription": "Tea Fit For Royalty",
+            "itemdescription": "Roasted milk tea paired with pearls, grass jelly, and pudding",
+            "ingredients": ["milk tea", "pearls", "grass jelly", "pudding"],
+            "address": [
+                {
+                    "addressid": "0",
+                    "number": "132",
+                    "line1": "Dundas Street West",
+                    "line2": "Toronto",
+                    "postcode": "M5G 1C3",
+                    "country": "Ontario"
+                },
+                {
+                    "addressid": "1",
+                    "number": "100",
+                    "line1": "King Street West",
+                    "line2": "Toronto",
+                    "postcode": "M5X 1A9",
+                    "country": "Ontario"
+                },
+                {
+                    "addressid": "2",
+                    "number": "439",
+                    "line1": "Yonge Street",
+                    "line2": "Toronto",
+                    "postcode": "M5B 1T3",
+                    "country": "Ontario"
+                },
+                {
+                    "addressid": "3",
+                    "number": "163",
+                    "line1": "King Street East",
+                    "line2": "Toronto",
+                    "postcode": "M5A 1J4",
+                    "country": "Ontario"
+                }
+            ]
+        }
+    ]
+}
