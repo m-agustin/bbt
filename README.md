@@ -1,6 +1,6 @@
 # Milk tea mock API
 
-Built a mock version of an API and deloyed it onto the internet via. Heroku.
+Built a mock version of an API and deloyed it onto a cloud platform via. Heroku.
 No routing/controllers.
 Incorporated github package by "https://github.com/typicode/json-server" onto project to create a mock REST API with zero coding.
 
